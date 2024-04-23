@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/Users/adambakeer/Downloads/CW2_23-24 (test)/cwk2/src/main/java/CardException.java">
+</file>
+<file name="/Users/adambakeer/Downloads/CW2_23-24 (test)/cwk2/src/main/java/BaccaratCard.java">
+</file>
+<file name="/Users/adambakeer/Downloads/CW2_23-24 (test)/cwk2/src/main/java/CardCollection.java">
+</file>
+<file name="/Users/adambakeer/Downloads/CW2_23-24 (test)/cwk2/src/main/java/BaccaratHand.java">
+<error line="49" column="9" severity="warning" message="Conditional logic can be removed." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanReturnCheck"/>
+</file>
+<file name="/Users/adambakeer/Downloads/CW2_23-24 (test)/cwk2/src/main/java/Card.java">
+</file>
+<file name="/Users/adambakeer/Downloads/CW2_23-24 (test)/cwk2/src/main/java/Shoe.java">
+<error line="5" column="8" severity="warning" message="Unused import - java.util.ArrayList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="14" column="21" severity="warning" message="&apos;numberOfDecks&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/Users/adambakeer/Downloads/CW2_23-24 (test)/cwk2/src/main/java/string.java">
+<error line="2" column="14" severity="warning" message="Name &apos;string&apos; must match pattern &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="/Users/adambakeer/Downloads/CW2_23-24 (test)/cwk2/src/main/java/Baccarat.java">
+</file>
+</checkstyle>
